@@ -27,3 +27,4 @@ cmake-build-debug/Makefile
 cmake-build-debug/Organizador_de_Trems.cbp
 cmake-build-debug/Organizador_de_Trems.layout
 CMakeLists.txt
+*.obj
